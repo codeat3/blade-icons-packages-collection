@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./socialcard-blade-ikonate.png" width="1280" title="Social Card Blade Ikonate Icons">
+    <img src="./socialcard-blade-icons-packages-collection.png" width="1280" title="Social Card Blade Icons Package Collection">
 </p>
 
 # Blade Icons Package Collection
