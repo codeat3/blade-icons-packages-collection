@@ -1,0 +1,514 @@
+updated_at: '2021-10-29 18:56'
+packages:
+  -
+    package: codeat3/blade-academicons
+    name: 'Blade Academicons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.0.1
+    downloads: 55
+    stars: 1
+  -
+    package: codeat3/blade-akar-icons
+    name: 'Blade Akar Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.8.1
+    downloads: 1498
+    stars: 4
+  -
+    package: codeat3/blade-ant-design-icons
+    name: 'Blade Ant Design Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.1
+    downloads: 1653
+    stars: 0
+  -
+    package: davidhsianturi/blade-bootstrap-icons
+    name: 'Blade Bootstrap Icons'
+    authors: 'David H. Sianturi'
+    original_package: null
+    latest_version: 0.1.0
+    downloads: 25981
+    stars: 38
+  -
+    package: mallardduck/blade-boxicons
+    name: 'Blade Boxicons'
+    authors: 'Dan Pock'
+    original_package: null
+    latest_version: 2.1.2
+    downloads: 5472
+    stars: 4
+  -
+    package: codeat3/blade-bytesize-icons
+    name: 'Blade Bytesize Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.0
+    downloads: 679
+    stars: 0
+  -
+    package: codeat3/blade-carbon-icons
+    name: 'Blade Carbon Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 2.1.0
+    downloads: 1524
+    stars: 0
+  -
+    package: codeat3/blade-clarity-icons
+    name: 'Blade Clarity Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.2.0
+    downloads: 1531
+    stars: 0
+  -
+    package: codeat3/blade-coolicons
+    name: 'Blade Coolicons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.0.1
+    downloads: 945
+    stars: 1
+  -
+    package: ublabs/blade-coreui-icons
+    name: 'Blade CoreUI Icons'
+    authors: 'Adrián UB'
+    original_package: null
+    latest_version: 0.1.0
+    downloads: 1090
+    stars: 2
+  -
+    package: stijnvanouplines/blade-country-flags
+    name: 'Blade Country Flags'
+    authors: null
+    original_package: null
+    latest_version: 1.0.1
+    downloads: 313
+    stars: 1
+  -
+    package: codeat3/blade-cryptocurrency-icons
+    name: 'Blade Cryptocurrency Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.3.3
+    downloads: 734
+    stars: 3
+  -
+    package: khatabwedaa/blade-css-icons
+    name: 'Blade CSS Icons'
+    authors: 'Khatab Wedaa'
+    original_package: null
+    latest_version: 1.0.0
+    downloads: 11606
+    stars: 24
+  -
+    package: codeat3/blade-devicons
+    name: 'Blade Dev Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.2.1
+    downloads: 6
+    stars: 0
+  -
+    package: codeat3/blade-elusive-icons
+    name: 'Blade Elusive Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.1
+    downloads: 73
+    stars: 0
+  -
+    package: codeat3/blade-emblemicons
+    name: 'Blade Emblemicons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.0.0
+    downloads: 5
+    stars: 0
+  -
+    package: owenvoke/blade-entypo
+    name: 'Blade Entypo'
+    authors: null
+    original_package: null
+    latest_version: v1.5.0
+    downloads: 4733
+    stars: 1
+  -
+    package: codeat3/blade-eos-icons
+    name: 'Blade EOS Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.8.2
+    downloads: 1975
+    stars: 0
+  -
+    package: Hasnayeen/blade-eva-icons
+    name: 'Blade Eva Icons'
+    authors: 'Nehal Hasnayeen'
+    original_package: null
+    latest_version: v1.0.0
+    downloads: 5145
+    stars: 7
+  -
+    package: codeat3/blade-evil-icons
+    name: 'Blade Evil Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.1
+    downloads: 733
+    stars: 0
+  -
+    package: brunocfalcao/blade-feather-icons
+    name: 'Blade Feather Icons'
+    authors: 'Bruno Falcao'
+    original_package: null
+    latest_version: 2.0.0
+    downloads: 12194
+    stars: 20
+  -
+    package: codeat3/blade-file-icons
+    name: 'Blade File Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.5.1
+    downloads: 886
+    stars: 1
+  -
+    package: codeat3/blade-fluentui-system-icons
+    name: 'Blade FluentUi System Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.10.1
+    downloads: 3129
+    stars: 1
+  -
+    package: codeat3/blade-fontaudio
+    name: 'Blade Font Audio'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.0
+    downloads: 713
+    stars: 0
+  -
+    package: owenvoke/blade-fontawesome
+    name: 'Blade Font Awesome'
+    authors: null
+    original_package: null
+    latest_version: v1.10.0
+    downloads: 65134
+    stars: 71
+  -
+    package: codeat3/blade-fontisto-icons
+    name: 'Blade Fontisto Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.0.1
+    downloads: 764
+    stars: 0
+  -
+    package: codeat3/blade-forkawesome
+    name: 'Blade Fork Awesome'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.6.1
+    downloads: 1151
+    stars: 2
+  -
+    package: actb/blade-github-octicons
+    name: 'Blade Github Octicons'
+    authors: null
+    original_package: null
+    latest_version: 4.0.0
+    downloads: 2774
+    stars: 4
+  -
+    package: codeat3/blade-google-material-design-icons
+    name: 'Blade Google Material Design Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.3.2
+    downloads: 3580
+    stars: 3
+  -
+    package: codeat3/blade-govicons
+    name: 'Blade Gov Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.0.0
+    downloads: 1717
+    stars: 1
+  -
+    package: codeat3/blade-grommet-icons
+    name: 'Blade Grommet Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.2.1
+    downloads: 983
+    stars: 0
+  -
+    package: troccoli/blade-health-icons
+    name: 'Blade Health Icons'
+    authors: 'Giulio Troccoli-Allard'
+    original_package: null
+    latest_version: v0.2.0
+    downloads: 109
+    stars: 3
+  -
+    package: blade-ui-kit/blade-heroicons
+    name: 'Blade Heroicons'
+    authors: 'Dries Vints'
+    original_package: null
+    latest_version: 1.2.0
+    downloads: 263246
+    stars: 244
+  -
+    package: nerdroid23/blade-icomoon
+    name: 'Blade IcoMoon Icons'
+    authors: 'Joe Sylnice'
+    original_package: null
+    latest_version: 1.0.3
+    downloads: 820
+    stars: 0
+  -
+    package: codeat3/blade-iconpark
+    name: 'Blade Icon Park Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.3.1
+    downloads: 1661
+    stars: 2
+  -
+    package: ItsMalikJones/blade-iconic
+    name: 'Blade Iconic Icons'
+    authors: 'Malik Alleyne-Jones'
+    original_package: null
+    latest_version: 1.2.0
+    downloads: 2238
+    stars: 16
+  -
+    package: andreiio/blade-iconoir
+    name: 'Blade Iconoir'
+    authors: 'Andrei Ioniță'
+    original_package: null
+    latest_version: 1.2.0
+    downloads: 1086
+    stars: 2
+  -
+    package: codeat3/blade-ikonate
+    name: 'Blade Ikonate Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.2
+    downloads: 781
+    stars: 1
+  -
+    package: Faisal50x/blade-ionicons
+    name: 'Blade Ionicons'
+    authors: 'Faisal Ahmed'
+    original_package: null
+    latest_version: v0.0.3
+    downloads: 128
+    stars: 4
+  -
+    package: codeat3/blade-jam-icons
+    name: 'Blade Jam Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.2.0
+    downloads: 837
+    stars: 0
+  -
+    package: codeat3/blade-line-awesome-icons
+    name: 'Blade Line Awesome Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.0.0
+    downloads: 2970
+    stars: 0
+  -
+    package: mallardduck/blade-lucide-icons
+    name: 'Blade Lucide Icons'
+    authors: 'Dan Pock'
+    original_package: null
+    latest_version: 1.3.0
+    downloads: 91
+    stars: 0
+  -
+    package: codeat3/blade-majestic-icons
+    name: 'Blade Majestic Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.0.0
+    downloads: 673
+    stars: 0
+  -
+    package: codeat3/blade-maki-icons
+    name: 'Blade Maki Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.0
+    downloads: 58
+    stars: 0
+  -
+    package: codeat3/blade-microns
+    name: 'Blade Microns'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.0
+    downloads: 730
+    stars: 0
+  -
+    package: codeat3/blade-mono-icons
+    name: 'Blade Mono Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.0.0
+    downloads: 1127
+    stars: 0
+  -
+    package: codeat3/blade-pepicons
+    name: 'Blade Pepicons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.0.0
+    downloads: 1280
+    stars: 0
+  -
+    package: codeat3/blade-phosphor-icons
+    name: 'Blade Phosphor icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.2.1
+    downloads: 1649
+    stars: 1
+  -
+    package: codeat3/blade-pixelarticons
+    name: 'Blade Pixelarticons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.1
+    downloads: 705
+    stars: 0
+  -
+    package: codeat3/blade-radix-icons
+    name: 'Blade Radix Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.1
+    downloads: 1151
+    stars: 0
+  -
+    package: andreiio/blade-remix-icon
+    name: 'Blade Remix Icon'
+    authors: 'Martín M.'
+    original_package: null
+    latest_version: 1.0.0
+    downloads: 4378
+    stars: 2
+  -
+    package: codeat3/blade-rpg-awesome-icons
+    name: 'Blade RPG Awesome Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.2
+    downloads: 716
+    stars: 1
+  -
+    package: ublabs/blade-simple-icons
+    name: 'Blade Simple Icons'
+    authors: 'Adrián UB'
+    original_package: null
+    latest_version: 0.13.0
+    downloads: 70
+    stars: 9
+  -
+    package: codeat3/blade-simple-line-icons
+    name: 'Blade Simple Line Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.0.0
+    downloads: 1141
+    stars: 0
+  -
+    package: codeat3/blade-system-uicons
+    name: 'Blade System UIcons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.2
+    downloads: 1546
+    stars: 2
+  -
+    package: ryangjchandler/blade-tabler-icons
+    name: 'Blade Tabler Icons'
+    authors: 'Ryan Chandler'
+    original_package: null
+    latest_version: v1.1.0
+    downloads: 9499
+    stars: 26
+  -
+    package: codeat3/blade-teeny-icons
+    name: 'Blade Teeny Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.5.1
+    downloads: 2050
+    stars: 0
+  -
+    package: codeat3/blade-typicons
+    name: 'Blade Typicons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.3.2
+    downloads: 725
+    stars: 0
+  -
+    package: codeat3/blade-uiw-icons
+    name: 'Blade Uiw Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.0
+    downloads: 775
+    stars: 0
+  -
+    package: codeat3/blade-unicons
+    name: 'Blade Unicons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.3.2
+    downloads: 1972
+    stars: 1
+  -
+    package: codeat3/blade-vaadin-icons
+    name: 'Blade Vaadin Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.1.1
+    downloads: 1004
+    stars: 0
+  -
+    package: codeat3/blade-codicons
+    name: 'Blade VSCode Codicons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.8.2
+    downloads: 941
+    stars: 0
+  -
+    package: codeat3/blade-weather-icons
+    name: 'Blade Weather Icons'
+    authors: 'Swapnil Sarwe'
+    original_package: null
+    latest_version: 1.2.1
+    downloads: 832
+    stars: 0
+  -
+    package: blade-ui-kit/blade-zondicons
+    name: 'Blade Zondicons'
+    authors: 'Dries Vints'
+    original_package: null
+    latest_version: 1.1.0
+    downloads: 24383
+    stars: 52
