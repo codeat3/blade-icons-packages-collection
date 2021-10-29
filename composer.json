@@ -1,0 +1,13 @@
+{
+    "name": "codeat3/blade-icons-packages-collection",
+    "description": "A curated list of blade-icons packages",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Swapnil Sarwe",
+            "email": "swapnilsarwe@gmail.com"
+        }
+    ],
+    "require": {}
+}
