@@ -1,642 +1,898 @@
-updated_at: '2021-10-29 19:52'
+updated_at: '2021-10-31 11:40'
 packages:
   -
     package: codeat3/blade-academicons
     name: 'Blade Academicons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.1
     downloads: 55
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-akar-icons
     name: 'Blade Akar Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.1
-    downloads: 1498
+    downloads: 1502
     stars: 4
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-ant-design-icons
     name: 'Blade Ant Design Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 1653
+    downloads: 1657
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: davidhsianturi/blade-bootstrap-icons
     name: 'Blade Bootstrap Icons'
     author:
-      name: davidhsianturi
-      avatar_url: 'https://www.gravatar.com/avatar/67541eb5643da12433285ca0b69ced99?d=identicon'
-    original_package: null
+      -
+        name: davidhsianturi
+        avatar_url: 'https://www.gravatar.com/avatar/67541eb5643da12433285ca0b69ced99?d=identicon'
     latest_version: 0.1.0
-    downloads: 25981
+    downloads: 26025
     stars: 38
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: mallardduck/blade-boxicons
     name: 'Blade Boxicons'
     author:
-      name: MallardDuck
-      avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
-    original_package: null
+      -
+        name: MallardDuck
+        avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
     latest_version: 2.1.2
-    downloads: 5472
+    downloads: 5507
     stars: 4
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-bytesize-icons
     name: 'Blade Bytesize Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
     downloads: 679
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-carbon-icons
     name: 'Blade Carbon Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 2.1.0
-    downloads: 1524
+    downloads: 1532
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-clarity-icons
     name: 'Blade Clarity Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.0
-    downloads: 1531
+    downloads: 1535
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-coolicons
     name: 'Blade Coolicons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.1
-    downloads: 945
+    downloads: 947
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: ublabs/blade-coreui-icons
     name: 'Blade CoreUI Icons'
     author:
-      name: ub
-      avatar_url: 'https://www.gravatar.com/avatar/64d845a05c782dcad0c9261c08c4c2fa?d=identicon'
-    original_package: null
+      -
+        name: ub
+        avatar_url: 'https://www.gravatar.com/avatar/64d845a05c782dcad0c9261c08c4c2fa?d=identicon'
     latest_version: 0.1.0
     downloads: 1090
     stars: 2
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: stijnvanouplines/blade-country-flags
     name: 'Blade Country Flags'
     author:
-      name: Solitweb
-      avatar_url: 'https://www.gravatar.com/avatar/7197ddf5eb50619575a84b08bff2f391?d=identicon'
-    original_package: null
+      -
+        name: Solitweb
+        avatar_url: 'https://www.gravatar.com/avatar/7197ddf5eb50619575a84b08bff2f391?d=identicon'
     latest_version: 1.0.1
-    downloads: 313
+    downloads: 314
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-cryptocurrency-icons
     name: 'Blade Cryptocurrency Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.3.3
     downloads: 734
     stars: 3
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: khatabwedaa/blade-css-icons
     name: 'Blade CSS Icons'
     author:
-      name: khatabwedaa
-      avatar_url: 'https://www.gravatar.com/avatar/e2b7df7dc785083174cf4d4242c03285?d=identicon'
-    original_package: null
+      -
+        name: khatabwedaa
+        avatar_url: 'https://www.gravatar.com/avatar/e2b7df7dc785083174cf4d4242c03285?d=identicon'
     latest_version: 1.0.0
-    downloads: 11606
+    downloads: 11616
     stars: 24
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-devicons
     name: 'Blade Dev Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
     downloads: 6
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-elusive-icons
     name: 'Blade Elusive Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
     downloads: 73
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-emblemicons
     name: 'Blade Emblemicons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
     downloads: 5
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: owenvoke/blade-entypo
     name: 'Blade Entypo'
     author:
-      name: owenvoke
-      avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
-    original_package: null
+      -
+        name: owenvoke
+        avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.5.0
-    downloads: 4733
+    downloads: 4758
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-eos-icons
     name: 'Blade EOS Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.2
-    downloads: 1975
+    downloads: 1980
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: Hasnayeen/blade-eva-icons
     name: 'Blade Eva Icons'
     author:
-      name: Hasnayeen
-      avatar_url: 'https://www.gravatar.com/avatar/130e77b57491032213c749cfa8a302b5?d=identicon'
-    original_package: null
+      -
+        name: Hasnayeen
+        avatar_url: 'https://www.gravatar.com/avatar/130e77b57491032213c749cfa8a302b5?d=identicon'
     latest_version: v1.0.0
-    downloads: 5145
+    downloads: 5169
     stars: 7
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-evil-icons
     name: 'Blade Evil Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
     downloads: 733
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: brunocfalcao/blade-feather-icons
     name: 'Blade Feather Icons'
     author:
-      name: brunofalcao
-      avatar_url: 'https://www.gravatar.com/avatar/b8eddd458385267230f6881a79c8dfb9?d=identicon'
-    original_package: null
+      -
+        name: brunofalcao
+        avatar_url: 'https://www.gravatar.com/avatar/b8eddd458385267230f6881a79c8dfb9?d=identicon'
     latest_version: 2.0.0
-    downloads: 12194
+    downloads: 12233
     stars: 20
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-file-icons
     name: 'Blade File Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.5.1
     downloads: 886
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-fluentui-system-icons
     name: 'Blade FluentUi System Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.10.1
-    downloads: 3129
+    downloads: 3139
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-fontaudio
     name: 'Blade Font Audio'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
     downloads: 713
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: owenvoke/blade-fontawesome
     name: 'Blade Font Awesome'
     author:
-      name: owenvoke
-      avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
-    original_package: null
+      -
+        name: owenvoke
+        avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.10.0
-    downloads: 65134
+    downloads: 65361
     stars: 71
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-fontisto-icons
     name: 'Blade Fontisto Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.1
     downloads: 764
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-forkawesome
     name: 'Blade Fork Awesome'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.6.1
-    downloads: 1151
+    downloads: 1155
     stars: 2
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: actb/blade-github-octicons
     name: 'Blade Github Octicons'
     author:
-      name: Tjoosten
-      avatar_url: 'https://www.gravatar.com/avatar/73bf18d2ffe27b8737ae396fd698f6e8?d=identicon'
-    original_package: null
+      -
+        name: Tjoosten
+        avatar_url: 'https://www.gravatar.com/avatar/73bf18d2ffe27b8737ae396fd698f6e8?d=identicon'
     latest_version: 4.0.0
-    downloads: 2774
+    downloads: 2777
     stars: 4
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-google-material-design-icons
     name: 'Blade Google Material Design Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.3.2
-    downloads: 3580
+    downloads: 3601
     stars: 3
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-govicons
     name: 'Blade Gov Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 1717
+    downloads: 1728
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-grommet-icons
     name: 'Blade Grommet Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 983
+    downloads: 987
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: troccoli/blade-health-icons
     name: 'Blade Health Icons'
     author:
-      name: troccoli
-      avatar_url: 'https://www.gravatar.com/avatar/61ae23714ab1ebad1b3f6926c61fb4a8?d=identicon'
-    original_package: null
+      -
+        name: troccoli
+        avatar_url: 'https://www.gravatar.com/avatar/61ae23714ab1ebad1b3f6926c61fb4a8?d=identicon'
     latest_version: v0.2.0
     downloads: 109
     stars: 3
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: blade-ui-kit/blade-heroicons
     name: 'Blade Heroicons'
     author:
-      name: driesvints
-      avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
-    original_package: null
+      -
+        name: driesvints
+        avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.2.0
-    downloads: 263246
+    downloads: 263949
     stars: 244
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: nerdroid23/blade-icomoon
     name: 'Blade IcoMoon Icons'
     author:
-      name: nerdroid23
-      avatar_url: 'https://www.gravatar.com/avatar/a95e9e9e1978bb2e2389642ae79299a5?d=identicon'
-    original_package: null
+      -
+        name: nerdroid23
+        avatar_url: 'https://www.gravatar.com/avatar/a95e9e9e1978bb2e2389642ae79299a5?d=identicon'
     latest_version: 1.0.3
     downloads: 820
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-iconpark
     name: 'Blade Icon Park Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.3.1
-    downloads: 1661
+    downloads: 1665
     stars: 2
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: ItsMalikJones/blade-iconic
     name: 'Blade Iconic Icons'
     author:
-      name: ItsMalikJones
-      avatar_url: 'https://www.gravatar.com/avatar/212f2b42e5c7982a10ef97dd2a7f42e8?d=identicon'
-    original_package: null
+      -
+        name: ItsMalikJones
+        avatar_url: 'https://www.gravatar.com/avatar/212f2b42e5c7982a10ef97dd2a7f42e8?d=identicon'
     latest_version: 1.2.0
-    downloads: 2238
+    downloads: 2267
     stars: 16
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: andreiio/blade-iconoir
     name: 'Blade Iconoir'
     author:
-      name: andreiio
-      avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
-    original_package: null
+      -
+        name: andreiio
+        avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.2.0
-    downloads: 1086
+    downloads: 1109
     stars: 2
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-ikonate
     name: 'Blade Ikonate Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.2
     downloads: 781
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: Faisal50x/blade-ionicons
     name: 'Blade Ionicons'
     author:
-      name: Faisal50x
-      avatar_url: 'https://www.gravatar.com/avatar/f0caa2486f435edd0046c552ccea3f65?d=identicon'
-    original_package: null
+      -
+        name: Faisal50x
+        avatar_url: 'https://www.gravatar.com/avatar/f0caa2486f435edd0046c552ccea3f65?d=identicon'
     latest_version: v0.0.3
     downloads: 128
     stars: 4
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-jam-icons
     name: 'Blade Jam Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.0
     downloads: 837
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-line-awesome-icons
     name: 'Blade Line Awesome Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 2970
+    downloads: 2996
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: mallardduck/blade-lucide-icons
     name: 'Blade Lucide Icons'
     author:
-      name: MallardDuck
-      avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
-    original_package: null
+      -
+        name: MallardDuck
+        avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
     latest_version: 1.3.0
-    downloads: 91
+    downloads: 92
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-majestic-icons
     name: 'Blade Majestic Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
     downloads: 673
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-maki-icons
     name: 'Blade Maki Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
     downloads: 58
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-microns
     name: 'Blade Microns'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
     downloads: 730
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-mono-icons
     name: 'Blade Mono Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 1127
+    downloads: 1131
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-pepicons
     name: 'Blade Pepicons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 1280
+    downloads: 1284
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-phosphor-icons
     name: 'Blade Phosphor icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 1649
+    downloads: 1650
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-pixelarticons
     name: 'Blade Pixelarticons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
     downloads: 705
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-radix-icons
     name: 'Blade Radix Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 1151
+    downloads: 1174
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: andreiio/blade-remix-icon
     name: 'Blade Remix Icon'
     author:
-      name: andreiio
-      avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
-    original_package: null
+      -
+        name: andreiio
+        avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.0.0
-    downloads: 4378
+    downloads: 4417
     stars: 2
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-rpg-awesome-icons
     name: 'Blade RPG Awesome Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.2
     downloads: 716
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: ublabs/blade-simple-icons
     name: 'Blade Simple Icons'
     author:
-      name: ub
-      avatar_url: 'https://www.gravatar.com/avatar/64d845a05c782dcad0c9261c08c4c2fa?d=identicon'
-    original_package: null
+      -
+        name: ub
+        avatar_url: 'https://www.gravatar.com/avatar/64d845a05c782dcad0c9261c08c4c2fa?d=identicon'
     latest_version: 0.13.0
     downloads: 70
     stars: 9
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-simple-line-icons
     name: 'Blade Simple Line Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 1141
+    downloads: 1146
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-system-uicons
     name: 'Blade System UIcons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.2
-    downloads: 1546
+    downloads: 1551
     stars: 2
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: ryangjchandler/blade-tabler-icons
     name: 'Blade Tabler Icons'
     author:
-      name: ryangjchandler
-      avatar_url: 'https://www.gravatar.com/avatar/fd5f60c5d11adc7f0dae46e3b8a1d9e6?d=identicon'
-    original_package: null
+      -
+        name: ryangjchandler
+        avatar_url: 'https://www.gravatar.com/avatar/fd5f60c5d11adc7f0dae46e3b8a1d9e6?d=identicon'
     latest_version: v1.1.0
-    downloads: 9499
+    downloads: 9556
     stars: 26
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-teeny-icons
     name: 'Blade Teeny Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.5.1
-    downloads: 2050
+    downloads: 2052
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-typicons
     name: 'Blade Typicons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.3.2
     downloads: 725
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-uiw-icons
     name: 'Blade Uiw Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
-    downloads: 775
+    downloads: 776
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-unicons
     name: 'Blade Unicons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.3.2
-    downloads: 1972
+    downloads: 1981
     stars: 1
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-vaadin-icons
     name: 'Blade Vaadin Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
     downloads: 1004
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-codicons
     name: 'Blade VSCode Codicons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.2
     downloads: 941
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: codeat3/blade-weather-icons
     name: 'Blade Weather Icons'
     author:
-      name: swapnilsarwe
-      avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
-    original_package: null
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
     downloads: 832
     stars: 0
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
   -
     package: blade-ui-kit/blade-zondicons
     name: 'Blade Zondicons'
     author:
-      name: driesvints
-      avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
-    original_package: null
+      -
+        name: driesvints
+        avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.1.0
-    downloads: 24383
+    downloads: 24478
     stars: 52
+    listed_on_blade_icon_readme: false
+    original_package:
+      name: ''
+      url: ''
