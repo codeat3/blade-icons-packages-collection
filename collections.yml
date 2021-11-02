@@ -1,4 +1,4 @@
-updated_at: '2021-11-02 07:20'
+updated_at: '2021-11-02 08:01'
 packages:
   -
     package: codeat3/blade-academicons
@@ -896,3 +896,17 @@ packages:
     original_package:
       name: Zondicons
       url: 'http://www.zondicons.com/'
+  -
+    package: codeat3/blade-simple-icons
+    name: 'Blade Simple Icons'
+    maintainers:
+      -
+        name: swapnilsarwe
+        avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
+    latest_version: 1.19.1
+    downloads: 4418
+    stars: 2
+    listed_on_blade_icon_readme: 0
+    original_package:
+      name: 'Simple Icons'
+      url: 'https://github.com/simple-icons/simple-icons'
