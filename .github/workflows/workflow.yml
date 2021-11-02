@@ -1,0 +1,18 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Repository Dispatch
+      uses: peter-evans/repository-dispatch@v1.1.3
+      with:
+          token: ${{ secrets.BLADE_ICONS_PACKAGES_REPO_ACCESS_TOKEN }}
+          repository: codeat3/blade-icons-packages
+          event-type: collection-updated
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
