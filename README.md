@@ -4,9 +4,9 @@
 
 # Blade Icons Package Collection
 
-<a href="https://github.com/codeat3/blade-icons-packages-collection/actions?query=workflow%3ATests">
+<!-- <a href="https://github.com/codeat3/blade-icons-packages-collection/actions?query=workflow%3ATests">
     <img src="https://github.com/codeat3/blade-icons-packages-collection/workflows/Tests/badge.svg" alt="Tests">
-</a>
+</a> -->
 <a href="https://packagist.org/packages/codeat3/blade-icons-packages-collection">
     <img src="https://img.shields.io/packagist/v/codeat3/blade-icons-packages-collection" alt="Latest Stable Version">
 </a>
