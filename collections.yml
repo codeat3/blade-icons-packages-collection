@@ -924,3 +924,9 @@ packages:
     original_package:
       name: 'Cryptocurrency Icons'
       url: 'https://github.com/spothq/cryptocurrency-icons'
+  -
+    package: ssmusoke/blade-healthicons
+    name: Blade Healthicons
+    original_package:
+      name: 'Health Icons'
+      url: 'https://healthicons.org/'
