@@ -9,5 +9,10 @@
             "email": "swapnilsarwe@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.4|^8.0",
+        "symfony/yaml": "^5.3",
+        "spatie/packagist-api": "^2.0",
+        "symfony/console": "^5.3"
+    }
 }
