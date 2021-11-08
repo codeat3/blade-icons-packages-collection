@@ -1,0 +1,98 @@
+#!/usr/bin/env php
+<?php
+
+use Exception;
+use Symfony\Component\Yaml\Yaml;
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Output\OutputInterface;
+use Symfony\Component\Console\SingleCommandApplication as Command;
+
+if (file_exists(__DIR__ . '/../vendor/autoload.php')) {
+    require __DIR__ . '/../vendor/autoload.php';
+} else {
+    require __DIR__ . '/../../../autoload.php';
+}
+
+class UpdateStats
+{
+    private const YAML_FILE_PATH = '/collections.yml';
+    public array $packages;
+    public $updated_at;
+    private $outputStream;
+    private $numOfPackages;
+
+    public function __construct($output) {
+        $this->outputStream = $output;
+    }
+
+    private function getFilePath() {
+        return getcwd() . self::YAML_FILE_PATH;
+    }
+
+    public function readYaml() {
+        $this->outputStream->writeln('Reading the yaml file');
+        $yamlData = (new Yaml())->parse(file_get_contents($this->getFilePath()));
+        $this->packages = $yamlData['packages'] ?? [];
+        $this->numOfPackages = count($this->packages);
+        $this->updated_at = date('Y-m-d H:i:s');
+        return $this;
+    }
+
+    public function fetchLatestData() {
+        $this->packages = array_map(function ($package) {
+            $this->outputStream->writeln("Fetching latest meta info of " . $package['package']);
+            return array_merge($package, PackagistMeta::fetch($package['package']));
+        }, $this->packages);
+
+        return $this;
+    }
+
+    public function saveUpdates() {
+        if($this->numOfPackages !== count($this->packages)) {
+            throw Exception('Num of packages don\'t match');
+        }
+        $collection = [
+            'updated_at' => $this->updated_at,
+            'packages' => $this->packages,
+        ];
+        $this->outputStream->writeln('Saving an updated yaml');
+        file_put_contents($this->getFilePath(), Yaml::dump($collection, 5, 2, Yaml::DUMP_MULTI_LINE_LITERAL_BLOCK));
+        return $this;
+    }
+}
+
+class PackagistMeta
+{
+
+    public static function fetch($package)
+    {
+        $client = new \GuzzleHttp\Client();
+        $generator = new \Spatie\Packagist\PackagistUrlGenerator();
+
+        $packagist = new \Spatie\Packagist\PackagistClient($client, $generator);
+
+        $metaData = $packagist->getPackage($package);
+
+        $versions = array_keys($metaData["package"]["versions"]);
+        usort($versions, 'version_compare');
+
+        $authors = $metaData['package']['maintainers'];
+
+        return [
+            'versions' => $versions,
+            'maintainers' => $authors,
+            'downloads' => $metaData['package']['downloads']['total'],
+            'stars' => $metaData['package']['github_stars'],
+        ];
+    }
+}
+
+return (new Command)->setCode(function (InputInterface $input, OutputInterface $output) {
+
+    (new UpdateStats($output))
+        ->readYaml()
+        ->fetchLatestData()
+        ->saveUpdates();
+
+    return Command::SUCCESS;
+})->run();
