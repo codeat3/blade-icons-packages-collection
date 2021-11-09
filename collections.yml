@@ -1483,7 +1483,7 @@ packages:
     latest_version: ''
     downloads: 2
     stars: 0
-    listed_on_blade_icon_readme: 0
+    listed_on_blade_icon_readme: 1
     original_package:
       name: 'Prime Icons'
       url: 'https://github.com/primefaces/primeicons'
