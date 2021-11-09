@@ -1473,3 +1473,15 @@ packages:
       - dev-main
       - '0.1'
       - '0.2'
+  -
+    package: codeat3/blade-prime-icons
+    name: 'Blade Prime Icons'
+    maintainers:
+    latest_version: ''
+    downloads: 0
+    stars: 0
+    listed_on_blade_icon_readme: 0
+    original_package:
+      name: 'Prime Icons'
+      url: 'https://github.com/primefaces/primeicons'
+    versions:
