@@ -1,4 +1,4 @@
-updated_at: '2021-11-17 06:23:39'
+updated_at: '2021-11-17 12:31:19'
 packages:
   -
     package: codeat3/blade-academicons
@@ -152,7 +152,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 2.1.0
-    downloads: 1707
+    downloads: 1717
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -160,6 +160,7 @@ packages:
       url: 'https://github.com/carbon-design-system/carbon'
     versions:
       - dev-feature/update-0fb0fe04ffed904a69b5bdad8821a33d60bf3bd6
+      - dev-feature/update-0e6035503ba5477aad0c060f17c8e037783239ae
       - dev-feature/update-5b4efa9271a89519afd10f70aa2a2ace26516d85
       - dev-feature/update-8c0b660113dc5e5cadc6f856360ededc20da58e5
       - dev-feature/update-1836ce1cac8d9a08314b62058a5ed258798901a8
@@ -736,7 +737,7 @@ packages:
         name: driesvints
         avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.2.0
-    downloads: 279317
+    downloads: 280023
     stars: 244
     listed_on_blade_icon_readme: 1
     original_package:
@@ -805,7 +806,7 @@ packages:
         name: ItsMalikJones
         avatar_url: 'https://www.gravatar.com/avatar/212f2b42e5c7982a10ef97dd2a7f42e8?d=identicon'
     latest_version: 1.2.0
-    downloads: 2473
+    downloads: 2489
     stars: 16
     listed_on_blade_icon_readme: 1
     original_package:
