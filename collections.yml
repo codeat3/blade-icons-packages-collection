@@ -1,4 +1,4 @@
-updated_at: '2021-11-21 12:30:08'
+updated_at: '2021-11-21 18:22:15'
 packages:
   -
     package: codeat3/blade-academicons
@@ -1137,7 +1137,7 @@ packages:
         avatar_url: 'https://www.gravatar.com/avatar/64d845a05c782dcad0c9261c08c4c2fa?d=identicon'
     latest_version: 0.14.0
     downloads: 103
-    stars: 9
+    stars: 10
     listed_on_blade_icon_readme: 1
     original_package:
       name: 'Simple Icons'
@@ -1161,6 +1161,7 @@ packages:
       - 0.14.0
       - 0.15.0
       - 0.16.0
+      - 0.17.0
   -
     package: codeat3/blade-simple-line-icons
     name: 'Blade Simple Line Icons'
