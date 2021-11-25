@@ -1,4 +1,4 @@
-updated_at: '2021-11-25 12:31:33'
+updated_at: '2021-11-25 18:22:53'
 packages:
   -
     package: codeat3/blade-academicons
@@ -739,8 +739,8 @@ packages:
         name: driesvints
         avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.2.0
-    downloads: 287947
-    stars: 245
+    downloads: 288577
+    stars: 251
     listed_on_blade_icon_readme: 1
     original_package:
       name: Heroicons
@@ -748,7 +748,6 @@ packages:
     versions:
       - v1.1.0
       - dev-main
-      - dev-php81
       - 0.1.0
       - 0.1.1
       - 0.1.2
@@ -1099,7 +1098,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.0.0
-    downloads: 5375
+    downloads: 5454
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1399,7 +1398,7 @@ packages:
         name: driesvints
         avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.1.0
-    downloads: 26602
+    downloads: 26720
     stars: 52
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1407,7 +1406,6 @@ packages:
       url: 'http://www.zondicons.com/'
     versions:
       - dev-main
-      - dev-php81
       - 0.1.0
       - 0.1.1
       - 0.1.2
