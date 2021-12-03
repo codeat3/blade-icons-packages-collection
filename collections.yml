@@ -1,4 +1,4 @@
-updated_at: '2021-12-03 12:31:40'
+updated_at: '2021-12-03 18:23:32'
 packages:
   -
     package: codeat3/blade-academicons
@@ -556,7 +556,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.10.0
-    downloads: 74083
+    downloads: 74215
     stars: 76
     listed_on_blade_icon_readme: 1
     original_package:
@@ -604,13 +604,14 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.6.1
-    downloads: 1349
+    downloads: 1351
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
       name: 'Fork Awesome'
       url: 'https://github.com/ForkAwesome/Fork-Awesome'
     versions:
+      - dev-feature/update-a99579ae3e735ee70e51ed62dfcee3172b5b2db7
       - dev-main
       - 0.1.0
       - 1.0.0
@@ -1098,7 +1099,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.0.0
-    downloads: 5765
+    downloads: 5817
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1422,7 +1423,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.19.1
-    downloads: 5624
+    downloads: 5700
     stars: 2
     listed_on_blade_icon_readme: 0
     original_package:
