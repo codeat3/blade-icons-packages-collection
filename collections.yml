@@ -1,4 +1,4 @@
-updated_at: '2021-12-05 12:30:58'
+updated_at: '2021-12-05 18:22:47'
 packages:
   -
     package: codeat3/blade-academicons
@@ -557,7 +557,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.10.0
-    downloads: 74437
+    downloads: 74472
     stars: 76
     listed_on_blade_icon_readme: 1
     original_package:
