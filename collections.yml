@@ -1,4 +1,4 @@
-updated_at: '2021-12-08 06:24:35'
+updated_at: '2021-12-08 12:32:34'
 packages:
   -
     package: codeat3/blade-academicons
@@ -739,7 +739,7 @@ packages:
         name: driesvints
         avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.2.0
-    downloads: 301315
+    downloads: 302018
     stars: 255
     listed_on_blade_icon_readme: 1
     original_package:
