@@ -1,4 +1,4 @@
-updated_at: '2021-12-12 01:09:16'
+updated_at: '2021-12-12 06:23:26'
 packages:
   -
     package: codeat3/blade-academicons
@@ -807,7 +807,7 @@ packages:
         name: ItsMalikJones
         avatar_url: 'https://www.gravatar.com/avatar/212f2b42e5c7982a10ef97dd2a7f42e8?d=identicon'
     latest_version: 1.2.0
-    downloads: 2845
+    downloads: 2852
     stars: 16
     listed_on_blade_icon_readme: 1
     original_package:
