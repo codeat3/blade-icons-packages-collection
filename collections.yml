@@ -1,4 +1,4 @@
-updated_at: '2021-12-18 12:31:18'
+updated_at: '2021-12-18 18:23:33'
 packages:
   -
     package: codeat3/blade-academicons
@@ -1101,7 +1101,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.0.0
-    downloads: 6499
+    downloads: 6518
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
