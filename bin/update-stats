@@ -30,7 +30,7 @@ class UpdateStats
     }
 
     public function readYaml() {
-        $this->outputStream->writeln('Reading the yaml file');
+        $this->outputStream->writeln('Reading the yaml file.');
         $yamlData = (new Yaml())->parse(file_get_contents($this->getFilePath()));
         $this->packages = $yamlData['packages'] ?? [];
         $this->numOfPackages = count($this->packages);
@@ -49,13 +49,13 @@ class UpdateStats
 
     public function saveUpdates() {
         if($this->numOfPackages !== count($this->packages)) {
-            throw Exception('Num of packages don\'t match');
+            throw Exception('Number of packages don\'t match');
         }
         $collection = [
             'updated_at' => $this->updated_at,
             'packages' => $this->packages,
         ];
-        $this->outputStream->writeln('Saving an updated yaml');
+        $this->outputStream->writeln('Saving an updated yaml.');
         file_put_contents($this->getFilePath(), Yaml::dump($collection, 5, 2, Yaml::DUMP_MULTI_LINE_LITERAL_BLOCK));
         return $this;
     }
