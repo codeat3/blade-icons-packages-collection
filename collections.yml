@@ -1577,6 +1577,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     listed_on_blade_icon_readme: 0
+    latest_version: ''
     original_package:
       name: 'Game Icons'
       url: 'https://github.com/game-icons/icons'
