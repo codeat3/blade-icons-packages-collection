@@ -1,4 +1,4 @@
-updated_at: '2022-02-03 01:10:05'
+updated_at: '2022-02-03 12:34:07'
 packages:
   -
     package: codeat3/blade-academicons
@@ -197,7 +197,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.1
-    downloads: 1338
+    downloads: 1339
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -361,7 +361,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.5.0
-    downloads: 6202
+    downloads: 6204
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -490,7 +490,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.5.1
-    downloads: 3261
+    downloads: 3263
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -515,7 +515,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.10.1
-    downloads: 5200
+    downloads: 5219
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -600,7 +600,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.1
-    downloads: 860
+    downloads: 861
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -759,7 +759,7 @@ packages:
         name: driesvints
         avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.2.0
-    downloads: 379171
+    downloads: 379964
     stars: 276
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1068,7 +1068,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 2716
+    downloads: 2738
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
