@@ -1,4 +1,4 @@
-updated_at: '2022-03-05 01:23:54'
+updated_at: '2022-03-05 12:33:35'
 packages:
   -
     package: codeat3/blade-academicons
@@ -30,7 +30,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.1
-    downloads: 2996
+    downloads: 3016
     stars: 5
     listed_on_blade_icon_readme: 1
     original_package:
@@ -62,7 +62,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 2637
+    downloads: 2655
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -364,7 +364,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 496
+    downloads: 497
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -800,7 +800,7 @@ packages:
         name: driesvints
         avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.2.0
-    downloads: 437491
+    downloads: 438729
     stars: 288
     listed_on_blade_icon_readme: 1
     original_package:
@@ -971,7 +971,6 @@ packages:
       url: 'https://github.com/michaelampr/jam'
     versions:
       - dev-main
-      - dev-l9
       - 1.0.0
       - 1.1.0
       - 1.2.0
@@ -1122,7 +1121,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 4126
+    downloads: 4148
     stars: 3
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1130,7 +1129,6 @@ packages:
       url: 'https://github.com/phosphor-icons/phosphor-icons'
     versions:
       - dev-main
-      - dev-l9
       - 1.0.0
       - 1.0.1
       - 1.1.1
@@ -1190,7 +1188,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.0.0
-    downloads: 10104
+    downloads: 10132
     stars: 4
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1216,7 +1214,6 @@ packages:
       url: 'https://github.com/nagoshiashumari/rpg-awesome-raw/'
     versions:
       - dev-main
-      - dev-l9
       - 1.0.0
       - 1.1.1
       - 1.1.2
@@ -1539,7 +1536,7 @@ packages:
         name: driesvints
         avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.1.0
-    downloads: 36095
+    downloads: 36122
     stars: 52
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1661,7 +1658,6 @@ packages:
       url: 'https://github.com/primefaces/primeicons'
     versions:
       - dev-main
-      - dev-l9
       - 1.0.0
       - 1.1.0
       - 1.2.0
