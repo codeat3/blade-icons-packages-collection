@@ -1,4 +1,4 @@
-updated_at: '2022-03-15 01:35:41'
+updated_at: '2022-03-15 12:37:51'
 packages:
   -
     package: codeat3/blade-academicons
@@ -8,7 +8,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.1
-    downloads: 149
+    downloads: 150
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -30,14 +30,14 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.1
-    downloads: 3202
+    downloads: 3220
     stars: 5
     listed_on_blade_icon_readme: 1
     original_package:
       name: akar-icons
       url: 'https://akaricons.com/'
     versions:
-      - dev-feature/update-e27d8f628880208fd1b9e23fa469b4afb63c24bd
+      - dev-feature/update-2d212386d46b48ae55bd09e65e73db695f891d1e
       - dev-main
       - 1.0.0
       - 1.0.1
@@ -62,7 +62,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 2764
+    downloads: 2765
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -84,7 +84,7 @@ packages:
         name: davidhsianturi
         avatar_url: 'https://www.gravatar.com/avatar/67541eb5643da12433285ca0b69ced99?d=identicon'
     latest_version: 0.1.0
-    downloads: 40862
+    downloads: 40882
     stars: 40
     listed_on_blade_icon_readme: 1
     original_package:
@@ -148,7 +148,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
-    downloads: 822
+    downloads: 823
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -168,7 +168,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 2.1.0
-    downloads: 3384
+    downloads: 3412
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -191,7 +191,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.0
-    downloads: 3395
+    downloads: 3397
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -213,7 +213,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.1
-    downloads: 1599
+    downloads: 1610
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -233,7 +233,7 @@ packages:
         name: ub
         avatar_url: 'https://www.gravatar.com/avatar/64d845a05c782dcad0c9261c08c4c2fa?d=identicon'
     latest_version: 0.1.0
-    downloads: 1237
+    downloads: 1240
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
@@ -271,7 +271,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.3.3
-    downloads: 894
+    downloads: 895
     stars: 4
     listed_on_blade_icon_readme: 1
     original_package:
@@ -300,7 +300,7 @@ packages:
         name: khatabwedaa
         avatar_url: 'https://www.gravatar.com/avatar/e2b7df7dc785083174cf4d4242c03285?d=identicon'
     latest_version: 1.0.0
-    downloads: 16821
+    downloads: 16857
     stars: 24
     listed_on_blade_icon_readme: 1
     original_package:
@@ -345,7 +345,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 247
+    downloads: 248
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -384,7 +384,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.5.0
-    downloads: 6598
+    downloads: 6610
     stars: 4
     listed_on_blade_icon_readme: 1
     original_package:
@@ -408,7 +408,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.2
-    downloads: 3588
+    downloads: 3595
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -518,7 +518,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.5.1
-    downloads: 4598
+    downloads: 4599
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -544,7 +544,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.10.1
-    downloads: 6554
+    downloads: 6561
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -582,7 +582,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
-    downloads: 839
+    downloads: 840
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -603,7 +603,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.10.0
-    downloads: 104059
+    downloads: 104289
     stars: 88
     listed_on_blade_icon_readme: 1
     original_package:
@@ -635,7 +635,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.1
-    downloads: 1035
+    downloads: 1039
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -682,7 +682,7 @@ packages:
         name: Tjoosten
         avatar_url: 'https://www.gravatar.com/avatar/73bf18d2ffe27b8737ae396fd698f6e8?d=identicon'
     latest_version: 4.0.0
-    downloads: 5115
+    downloads: 5124
     stars: 4
     listed_on_blade_icon_readme: 1
     original_package:
@@ -762,7 +762,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 2319
+    downloads: 2326
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -967,7 +967,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.0
-    downloads: 1300
+    downloads: 1303
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -988,7 +988,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 5599
+    downloads: 5602
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1051,7 +1051,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
-    downloads: 170
+    downloads: 172
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1090,7 +1090,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 2035
+    downloads: 2036
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1108,7 +1108,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 3052
+    downloads: 3075
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1126,7 +1126,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 4444
+    downloads: 4500
     stars: 3
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1168,7 +1168,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 1809
+    downloads: 1812
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1277,7 +1277,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 2033
+    downloads: 2044
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1296,7 +1296,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.2
-    downloads: 2512
+    downloads: 2513
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1352,7 +1352,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.5.1
-    downloads: 4000
+    downloads: 4014
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1402,14 +1402,14 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
-    downloads: 1218
+    downloads: 1219
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
       name: 'Uiw Icons'
       url: 'https://github.com/uiwjs/icons'
     versions:
-      - dev-feature/update-10862691376a502c26005ded2210f04edeaafd22
+      - dev-feature/update-4ac2c961932aab4c9d4278b0b5d3bc1f78895d55
       - dev-main
       - 1.0.0
       - 1.1.0
@@ -1423,7 +1423,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.3.2
-    downloads: 5242
+    downloads: 5287
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1448,7 +1448,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 1648
+    downloads: 1665
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1469,7 +1469,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.2
-    downloads: 2023
+    downloads: 2024
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1498,6 +1498,7 @@ packages:
       - 1.13.2
       - 1.14.2
       - 1.15.2
+      - 1.16.2
   -
     package: codeat3/blade-weather-icons
     name: 'Blade Weather Icons'
@@ -1506,7 +1507,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 976
+    downloads: 977
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1560,7 +1561,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.19.1
-    downloads: 9831
+    downloads: 9890
     stars: 2
     listed_on_blade_icon_readme: 0
     original_package:
