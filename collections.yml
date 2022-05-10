@@ -1724,7 +1724,7 @@ packages:
     package: saade/blade-iconsax
     name: 'Blade Iconsax'
     latest_version: ''
-    listed_on_blade_icon_readme: 0
+    listed_on_blade_icon_readme: 1
     original_package:
       name: iconsax
       url: 'https://github.com/lusaxweb/iconsax'
