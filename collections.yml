@@ -1,4 +1,4 @@
-updated_at: '2022-06-20 02:07:03'
+updated_at: '2022-06-20 12:46:41'
 packages:
   -
     package: codeat3/blade-academicons
@@ -174,14 +174,14 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 2.1.0
-    downloads: 8170
+    downloads: 8187
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
       name: 'Carbon Design System'
       url: 'https://github.com/carbon-design-system/carbon'
     versions:
-      - dev-feature/update-d05a4635d5fcbc13cb8e440e5732d355e64d0c47
+      - dev-feature/update-379366bc52cfd93bd52b862afc56b23152d447ec
       - dev-main
       - 1.0.0
       - 2.0.0
@@ -376,7 +376,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 709
+    downloads: 710
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -419,7 +419,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.2
-    downloads: 7643
+    downloads: 7650
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -557,14 +557,14 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.10.1
-    downloads: 12078
+    downloads: 12103
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
       name: 'Fluent UI System Icons'
       url: 'https://github.com/microsoft/fluentui-system-icons'
     versions:
-      - dev-feature/update-7058e8598737b4206467fc71608133afcea6f7d2
+      - dev-feature/update-f54ade5c858c4577c3fe7dbaaa2551ddd086e592
       - dev-main
       - 1.0.0
       - 1.0.1
@@ -826,7 +826,7 @@ packages:
         name: driesvints
         avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.2.0
-    downloads: 672887
+    downloads: 673353
     stars: 319
     listed_on_blade_icon_readme: 1
     original_package:
@@ -857,7 +857,7 @@ packages:
         name: nerdroid23
         avatar_url: 'https://www.gravatar.com/avatar/a95e9e9e1978bb2e2389642ae79299a5?d=identicon'
     latest_version: 1.0.3
-    downloads: 3094
+    downloads: 3114
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1035,7 +1035,7 @@ packages:
         name: MallardDuck
         avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
     latest_version: 1.3.0
-    downloads: 862
+    downloads: 863
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1156,7 +1156,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 10936
+    downloads: 10937
     stars: 5
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1420,7 +1420,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.3.2
-    downloads: 1544
+    downloads: 1545
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1464,7 +1464,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.3.2
-    downloads: 8991
+    downloads: 8992
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1579,7 +1579,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
-    downloads: 45547
+    downloads: 45607
     stars: 53
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1597,6 +1597,7 @@ packages:
       - dev-feature/update-2022-05-30-12-20
       - dev-feature/update-2022-06-06-12-22
       - dev-feature/update-2022-06-13-12-21
+      - dev-feature/update-2022-06-20-12-21
       - dev-main
       - 0.1.0
       - 0.1.1
