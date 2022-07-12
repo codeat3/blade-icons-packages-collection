@@ -14,6 +14,7 @@ packages:
     original_package:
       name: Academicons
       url: 'http://jpswalsh.github.io/academicons/'
+      twitter: jpswalsh
     versions:
       - dev-main
       - 1.0.0
@@ -36,6 +37,7 @@ packages:
     original_package:
       name: akar-icons
       url: 'https://akaricons.com/'
+      twitter: agwibawa
     versions:
       - dev-feature/update-92c11186378f4936649fd11d139e04b4aabaa9ee
       - dev-main
@@ -72,6 +74,7 @@ packages:
     original_package:
       name: 'Ant Design icons'
       url: 'https://github.com/ant-design/ant-design-icons'
+      twitter: AntDesignUI
     versions:
       - dev-main
       - 1.0.0
@@ -93,6 +96,7 @@ packages:
     original_package:
       name: 'Bootstrap Icons'
       url: 'https://github.com/twbs/icons'
+      twitter: getbootstrap
     versions:
       - v0.2.0
       - v0.2.1
@@ -130,6 +134,7 @@ packages:
     original_package:
       name: boxicons
       url: 'https://github.com/atisawd/boxicons'
+      twitter: box_icons
     versions:
       - v1.0.0
       - v1.1.0
@@ -163,6 +168,7 @@ packages:
     original_package:
       name: 'Bytesize Icons'
       url: 'https://github.com/danklammer/bytesize-icons'
+      twitter: danklammer
     versions:
       - dev-main
       - 1.0.0
@@ -183,6 +189,8 @@ packages:
     original_package:
       name: 'Carbon Design System'
       url: 'https://github.com/carbon-design-system/carbon'
+      twitter: _carbondesign
+      website: carbondesignsystem.com
     versions:
       - dev-feature/update-e0cbc294adce69aeb8ade7d65612d12fa2ebd77b
       - dev-feature/update-8e1872487b770ec38f380efb97316d2747b27f66
@@ -209,6 +217,7 @@ packages:
     original_package:
       name: Clarity
       url: 'https://github.com/vmware/clarity-assets'
+      twitter: vmwopensource
     versions:
       - dev-main
       - 1.0.0
@@ -233,6 +242,7 @@ packages:
     original_package:
       name: coolicons
       url: 'https://github.com/krystonschwarze/coolicons'
+      twitter: krystonschwarze
     versions:
       - dev-main
       - 1.0.0
@@ -253,6 +263,7 @@ packages:
     original_package:
       name: 'CoreUI Icons'
       url: 'https://icons.coreui.io/icons/'
+      twitter: core_ui
     versions:
       - dev-main
       - 0.1.0
@@ -271,6 +282,7 @@ packages:
     original_package:
       name: flag-icons
       url: 'https://github.com/lipis/flag-icons'
+      twitter: lipis
     versions:
       - dev-main
       - dev-analysis-gOJBY5
@@ -291,6 +303,7 @@ packages:
     original_package:
       name: 'Cryptocurrency Icons'
       url: 'https://github.com/spothq/cryptocurrency-icons'
+      twitter: spotwallet
     versions:
       - dev-main
       - 0.1.0
@@ -320,6 +333,7 @@ packages:
     original_package:
       name: 'CSS Icons'
       url: 'https://github.com/astrit/css.gg'
+      twitter: astritmalsija
     versions:
       - dev-feat/add-laravel-9-support
       - dev-main
@@ -344,6 +358,7 @@ packages:
     original_package:
       name: Devicon
       url: 'https://github.com/devicons/devicon'
+      website: devicon.dev
     versions:
       - dev-main
       - 1.0.0
@@ -366,6 +381,8 @@ packages:
     original_package:
       name: 'Elusive Icons'
       url: 'https://github.com/dovy/elusive-icons'
+      website: elusiveicons.com
+      twitter: dovyp
     versions:
       - dev-main
       - 1.0.0
@@ -386,6 +403,8 @@ packages:
     original_package:
       name: Emblemicons
       url: 'https://github.com/emblemicons/emblemicons.github.io'
+      website: emblemicons.in
+      twitter: manishbharvey
     versions:
       - dev-main
       - 1.0.0
@@ -429,6 +448,8 @@ packages:
     original_package:
       name: 'EOS icons'
       url: 'https://gitlab.com/SUSE-UIUX/eos-icons'
+      website: eos-icons.com
+      twitter: eosdesignsystem
     versions:
       - dev-main
       - 1.0.0
@@ -567,6 +588,8 @@ packages:
     original_package:
       name: 'Fluent UI System Icons'
       url: 'https://github.com/microsoft/fluentui-system-icons'
+      twitter: OpenAtMicrosoft
+      website: opensource.microsoft.com
     versions:
       - dev-feature/update-d3bce76153b47755b3390799e446d002de6f9d46
       - dev-main
@@ -614,6 +637,7 @@ packages:
     original_package:
       name: 'Fontaudio Icon Toolkit'
       url: 'https://github.com/fefanto/fontaudio'
+      twitter: fefanto
     versions:
       - dev-main
       - 0.1.0
@@ -668,6 +692,8 @@ packages:
     original_package:
       name: Fontisto
       url: 'https://github.com/kenangundogan/fontisto'
+      twitter: knngndgn
+      website: fontisto.com
     versions:
       - dev-main
       - 1.0.0
@@ -743,6 +769,7 @@ packages:
     original_package:
       name: 'Material design icons'
       url: 'https://github.com/google/material-design-icons'
+      twitter: 'GoogleOSS'
     versions:
       - dev-feature/update-c9e552847da3445dec2e384e9e2e7230efaca468
       - dev-main
@@ -891,6 +918,7 @@ packages:
     original_package:
       name: 'Icon Park'
       url: 'https://github.com/bytedance/IconPark'
+      website: www.bytedance.com
     versions:
       - dev-main
       - 1.0.0
@@ -1009,6 +1037,8 @@ packages:
     original_package:
       name: 'Jam Icons'
       url: 'https://github.com/michaelampr/jam'
+      twitter: michaelampr
+      website: jam-icons.com
     versions:
       - dev-main
       - 1.0.0
@@ -1030,6 +1060,8 @@ packages:
     original_package:
       name: 'Line Awesome Icons'
       url: 'https://github.com/icons8/line-awesome'
+      twitter: icons_8
+      website: icons8.com
     versions:
       - dev-main
       - 1.0.0
@@ -1095,6 +1127,8 @@ packages:
     original_package:
       name: 'Maki Icons'
       url: 'https://github.com/mapbox/maki'
+      twitter: mapbox
+      website: labs.mapbox.com/maki-icons/
     versions:
       - dev-main
       - 1.0.0
@@ -1116,6 +1150,7 @@ packages:
     original_package:
       name: Microns
       url: 'https://github.com/stephenhutchings/microns'
+      website: www.s-ings.com
     versions:
       - dev-main
       - 1.0.0
@@ -1153,6 +1188,8 @@ packages:
     original_package:
       name: Pepicons
       url: 'https://github.com/CyCraft/pepicons'
+      twitter: mesqueeb
+      website: pepicons.com
     versions:
       - dev-main
       - 1.0.0
@@ -1171,6 +1208,8 @@ packages:
     original_package:
       name: 'Phosphor Icons'
       url: 'https://github.com/phosphor-icons/phosphor-icons'
+      twitter: _phosphoricons
+      website: phosphoricons.com
     versions:
       - dev-main
       - 1.0.0
@@ -1275,6 +1314,8 @@ packages:
     original_package:
       name: 'Simple Icons'
       url: 'https://github.com/simple-icons/simple-icons'
+      github: ericcornelissen
+      website: ericcornelissen.dev
     versions:
       - dev-feature/update-icons
       - dev-main
@@ -1410,6 +1451,8 @@ packages:
     original_package:
       name: 'Teeny Icons'
       url: 'https://github.com/teenyicons/teenyicons'
+      website: teenyicons.com
+      twitter: rebellenoire
     versions:
       - dev-main
       - 1.0.0
@@ -1436,6 +1479,7 @@ packages:
     original_package:
       name: Typicons
       url: 'https://github.com/stephenhutchings/typicons.font'
+      website: www.s-ings.com
     versions:
       - dev-main
       - '0.5'
@@ -1460,6 +1504,7 @@ packages:
     original_package:
       name: 'Uiw Icons'
       url: 'https://github.com/uiwjs/icons'
+      website: uiwjs.github.io
     versions:
       - dev-main
       - 1.0.0
@@ -1480,6 +1525,8 @@ packages:
     original_package:
       name: Unicons
       url: 'https://github.com/Iconscout/unicons'
+      twitter: iconscout
+      website: iconscout.com
     versions:
       - dev-main
       - '0.5'
@@ -1526,6 +1573,8 @@ packages:
     original_package:
       name: 'VSCode Codicons'
       url: 'https://github.com/microsoft/vscode-codicons'
+      twitter: OpenAtMicrosoft
+      website: opensource.microsoft.com
     versions:
       - dev-feature/update-7d3c3ad58ded54b01f072cc5cfa522b59ae5da2a
       - dev-main
@@ -1729,6 +1778,8 @@ packages:
     original_package:
       name: 'Prime Icons'
       url: 'https://github.com/primefaces/primeicons'
+      website: www.primefaces.org
+      twitter: cagataycivici
     versions:
       - dev-main
       - 1.0.0
