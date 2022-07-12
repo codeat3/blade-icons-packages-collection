@@ -1683,6 +1683,8 @@ packages:
     original_package:
       name: 'Simple Icons'
       url: 'https://github.com/simple-icons/simple-icons'
+      github: ericcornelissen
+      website: ericcornelissen.dev
     versions:
       - dev-feature/update-d4f8710563bc2940750ee1faafd5e1f0aedb9b17
       - dev-feature/update-0fa7840ba0b52e605d7fe9890fae36497aed9ece
