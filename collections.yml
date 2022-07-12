@@ -1,4 +1,4 @@
-updated_at: '2022-07-12 02:28:13'
+updated_at: '2022-07-12 12:51:11'
 packages:
   -
     package: codeat3/blade-academicons
@@ -276,7 +276,7 @@ packages:
         name: Solitweb
         avatar_url: 'https://www.gravatar.com/avatar/7197ddf5eb50619575a84b08bff2f391?d=identicon'
     latest_version: 1.0.1
-    downloads: 2006
+    downloads: 2013
     stars: 4
     listed_on_blade_icon_readme: 1
     original_package:
@@ -582,7 +582,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.10.1
-    downloads: 13057
+    downloads: 13108
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -653,7 +653,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.10.0
-    downloads: 145241
+    downloads: 145418
     stars: 92
     listed_on_blade_icon_readme: 1
     original_package:
@@ -769,7 +769,7 @@ packages:
     original_package:
       name: 'Material design icons'
       url: 'https://github.com/google/material-design-icons'
-      twitter: 'GoogleOSS'
+      twitter: GoogleOSS
     versions:
       - dev-feature/update-c9e552847da3445dec2e384e9e2e7230efaca468
       - dev-main
@@ -1206,7 +1206,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 12011
+    downloads: 12049
     stars: 5
     listed_on_blade_icon_readme: 1
     original_package:
