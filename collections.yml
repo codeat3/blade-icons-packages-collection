@@ -807,6 +807,7 @@ packages:
     original_package:
       name: 'Gov Icons'
       url: 'https://github.com/540co/govicons'
+      website: 540.co
     versions:
       - dev-main
       - 1.0.0
@@ -826,6 +827,7 @@ packages:
     original_package:
       name: 'Grommet Icons'
       url: 'https://github.com/grommet/grommet-icons'
+      website: grommet.io
     versions:
       - dev-main
       - 1.0.0
@@ -1170,6 +1172,8 @@ packages:
     original_package:
       name: 'Mono Icons'
       url: 'https://github.com/mono-company/mono-icons'
+      website: mono.company
+      twitter: mono_company
     versions:
       - dev-main
       - 1.0.0
@@ -1252,6 +1256,7 @@ packages:
     original_package:
       name: 'Radix Icons'
       url: 'https://github.com/radix-ui/icons'
+      twitter: radix_ui
     versions:
       - dev-main
       - 1.0.0
@@ -1374,6 +1379,7 @@ packages:
     original_package:
       name: 'Simple Line Icons'
       url: 'https://github.com/thesabbir/simple-line-icons'
+      twitter: alreadysabbir
     versions:
       - dev-main
       - 1.0.0
@@ -1393,6 +1399,8 @@ packages:
     original_package:
       name: 'System UIcons'
       url: 'https://github.com/CoreyGinnivan/system-uicons'
+      twitter: CoreyGinnivan
+      website: systemuicons.com
     versions:
       - dev-main
       - 0.1.0
@@ -1552,6 +1560,7 @@ packages:
     original_package:
       name: 'Vaadin Icons'
       url: 'https://github.com/vaadin/vaadin-icons'
+      website: vaadin.com
     versions:
       - dev-main
       - 1.0.0
