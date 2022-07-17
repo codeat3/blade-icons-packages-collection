@@ -1,4 +1,4 @@
-updated_at: '2022-07-17 02:25:27'
+updated_at: '2022-07-17 12:40:03'
 packages:
   -
     package: codeat3/blade-academicons
@@ -90,7 +90,7 @@ packages:
         name: davidhsianturi
         avatar_url: 'https://www.gravatar.com/avatar/67541eb5643da12433285ca0b69ced99?d=identicon'
     latest_version: 0.1.0
-    downloads: 56470
+    downloads: 56487
     stars: 43
     listed_on_blade_icon_readme: 1
     original_package:
@@ -182,7 +182,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 2.1.0
-    downloads: 9052
+    downloads: 9053
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -417,7 +417,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.5.0
-    downloads: 7783
+    downloads: 7785
     stars: 6
     listed_on_blade_icon_readme: 1
     original_package:
@@ -652,8 +652,8 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.10.0
-    downloads: 146947
-    stars: 92
+    downloads: 146996
+    stars: 93
     listed_on_blade_icon_readme: 1
     original_package:
       name: Fontawesome
@@ -675,7 +675,6 @@ packages:
       - v1.10.0
       - v2.0.0
       - dev-main
-      - dev-create-pull-request/patch
       - 1.x-dev
   -
     package: codeat3/blade-fontisto-icons
@@ -1055,7 +1054,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 10635
+    downloads: 10637
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1273,7 +1272,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.0.0
-    downloads: 19441
+    downloads: 19443
     stars: 4
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1312,7 +1311,7 @@ packages:
         name: ub
         avatar_url: 'https://www.gravatar.com/avatar/64d845a05c782dcad0c9261c08c4c2fa?d=identicon'
     latest_version: 0.14.0
-    downloads: 541
+    downloads: 542
     stars: 12
     listed_on_blade_icon_readme: 1
     original_package:
