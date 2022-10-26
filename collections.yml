@@ -1911,3 +1911,11 @@ packages:
         avatar_url: 'https://www.gravatar.com/avatar/a542ffaba0ce5fadb0588d3923a5c81b?d=identicon'
     downloads: 555
     stars: 1
+  -
+    package: codeat3/blade-gala-icons
+    name: 'Blade Gala Icons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 0
+    original_package:
+      name: 'Game Icons'
+      url: 'https://github.com/codeat3/blade-gala-icons'
