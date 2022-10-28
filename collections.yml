@@ -1,4 +1,4 @@
-updated_at: '2022-10-27 20:13:13'
+updated_at: '2022-10-28 01:12:21'
 packages:
   -
     package: codeat3/blade-academicons
@@ -183,7 +183,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 2.1.0
-    downloads: 16239
+    downloads: 16268
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -848,7 +848,7 @@ packages:
         name: troccoli
         avatar_url: 'https://www.gravatar.com/avatar/61ae23714ab1ebad1b3f6926c61fb4a8?d=identicon'
     latest_version: v0.2.0
-    downloads: 7637
+    downloads: 7648
     stars: 3
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1292,7 +1292,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.0.0
-    downloads: 26623
+    downloads: 26656
     stars: 5
     listed_on_blade_icon_readme: 1
     original_package:
