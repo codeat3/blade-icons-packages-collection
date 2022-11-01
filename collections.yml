@@ -1,4 +1,4 @@
-updated_at: '2022-10-31 20:13:47'
+updated_at: '2022-11-01 01:18:32'
 packages:
   -
     package: codeat3/blade-academicons
@@ -128,7 +128,7 @@ packages:
         name: MallardDuck
         avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
     latest_version: 2.1.2
-    downloads: 22021
+    downloads: 22054
     stars: 8
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1093,7 +1093,7 @@ packages:
         name: MallardDuck
         avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
     latest_version: 1.3.0
-    downloads: 1912
+    downloads: 1914
     stars: 6
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1894,7 +1894,7 @@ packages:
       -
         name: saade
         avatar_url: 'https://www.gravatar.com/avatar/28793909c9b81e2cbad96b14c56dbb43?d=identicon'
-    downloads: 1025
+    downloads: 1029
     stars: 3
   -
     package: eduard9969/blade-polaris-icons
