@@ -1,4 +1,4 @@
-updated_at: '2022-11-06 20:12:27'
+updated_at: '2022-11-07 01:01:58'
 packages:
   -
     package: codeat3/blade-academicons
@@ -183,7 +183,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 2.1.0
-    downloads: 16926
+    downloads: 16931
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -657,7 +657,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.10.0
-    downloads: 198984
+    downloads: 199152
     stars: 100
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1398,6 +1398,7 @@ packages:
       - 0.52.0
       - 0.53.0
       - 0.54.0
+      - 0.55.0
   -
     package: codeat3/blade-simple-line-icons
     name: 'Blade Simple Line Icons'
