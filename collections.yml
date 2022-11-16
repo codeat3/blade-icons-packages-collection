@@ -1,4 +1,4 @@
-updated_at: '2022-11-15 20:11:44'
+updated_at: '2022-11-16 01:00:21'
 packages:
   -
     package: codeat3/blade-academicons
@@ -588,7 +588,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.10.1
-    downloads: 20924
+    downloads: 21004
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -973,7 +973,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.2.0
-    downloads: 7127
+    downloads: 7133
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1077,7 +1077,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 15108
+    downloads: 15129
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1190,7 +1190,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 8934
+    downloads: 8968
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1230,7 +1230,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 21502
+    downloads: 21548
     stars: 7
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1298,7 +1298,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.0.0
-    downloads: 27669
+    downloads: 27697
     stars: 5
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1735,7 +1735,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.19.1
-    downloads: 24019
+    downloads: 24079
     stars: 3
     listed_on_blade_icon_readme: 0
     original_package:
@@ -1746,7 +1746,6 @@ packages:
     versions:
       - dev-feature/update-d4f8710563bc2940750ee1faafd5e1f0aedb9b17
       - dev-feature/update-c5eb8623af165322c4b7c33e6379a029ec3d1d8c
-      - dev-feature/update-1da4d733eb0093fff3aa9a65efee8bd79bed8209
       - dev-feature/update-7f94b8d416fb2735ed0fac64beb3c8f4801f8dc6
       - dev-main
       - 0.1.0
@@ -1921,7 +1920,7 @@ packages:
       -
         name: Eduard9969
         avatar_url: 'https://www.gravatar.com/avatar/a542ffaba0ce5fadb0588d3923a5c81b?d=identicon'
-    downloads: 953
+    downloads: 954
     stars: 1
   -
     package: codeat3/blade-gala-icons
