@@ -1,4 +1,4 @@
-updated_at: '2022-12-08 20:09:37'
+updated_at: '2022-12-09 00:52:40'
 packages:
   -
     package: codeat3/blade-academicons
@@ -422,7 +422,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.5.0
-    downloads: 9868
+    downloads: 9879
     stars: 6
     listed_on_blade_icon_readme: 1
     original_package:
@@ -589,7 +589,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.10.1
-    downloads: 22043
+    downloads: 22080
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -640,7 +640,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
-    downloads: 1446
+    downloads: 1448
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -977,14 +977,14 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.2.0
-    downloads: 7424
+    downloads: 7431
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
       name: Iconoir
       url: 'https://github.com/lucaburgio/iconoir'
     versions:
-      - dev-chore/update-v5.4.1
+      - dev-chore/update-v5.5
       - dev-main
       - 1.0.0
       - 1.0.1
@@ -1006,6 +1006,7 @@ packages:
       - 1.8.2
       - 1.9.0
       - 1.9.1
+      - 1.10.0
   -
     package: codeat3/blade-ikonate
     name: 'Blade Ikonate Icons'
@@ -1932,7 +1933,7 @@ packages:
       -
         name: Eduard9969
         avatar_url: 'https://www.gravatar.com/avatar/a542ffaba0ce5fadb0588d3923a5c81b?d=identicon'
-    downloads: 1167
+    downloads: 1183
     stars: 1
   -
     package: codeat3/blade-gala-icons
