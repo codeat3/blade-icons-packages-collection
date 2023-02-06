@@ -1,4 +1,4 @@
-updated_at: '2023-02-05 20:09:32'
+updated_at: '2023-02-06 00:50:38'
 packages:
   -
     package: codeat3/blade-academicons
@@ -1119,7 +1119,7 @@ packages:
         name: MallardDuck
         avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
     latest_version: 1.3.0
-    downloads: 3376
+    downloads: 3380
     stars: 8
     listed_on_blade_icon_readme: 1
     original_package:
