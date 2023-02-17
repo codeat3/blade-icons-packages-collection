@@ -1979,7 +1979,7 @@ packages:
     listed_on_blade_icon_readme: 0
     original_package:
       name: 'Game Icons'
-      url: 'https://github.com/codeat3/blade-gala-icons'
+      url: 'https://github.com/sisyphusion/gala-icons'
     versions:
       - dev-main
       - 1.0.0
