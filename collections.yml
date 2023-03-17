@@ -1,4 +1,4 @@
-updated_at: '2023-03-16 20:11:03'
+updated_at: '2023-03-17 00:53:16'
 packages:
   -
     package: codeat3/blade-academicons
@@ -144,7 +144,7 @@ packages:
         name: MallardDuck
         avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
     latest_version: 2.1.2
-    downloads: 28680
+    downloads: 28743
     stars: 8
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1208,7 +1208,7 @@ packages:
         name: MallardDuck
         avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
     latest_version: 1.3.0
-    downloads: 4817
+    downloads: 4857
     stars: 9
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1361,7 +1361,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 31317
+    downloads: 31419
     stars: 8
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1436,7 +1436,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.0.0
-    downloads: 36170
+    downloads: 36166
     stars: 8
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1783,7 +1783,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.2
-    downloads: 12929
+    downloads: 12934
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -2075,7 +2075,7 @@ packages:
       -
         name: saade
         avatar_url: 'https://www.gravatar.com/avatar/28793909c9b81e2cbad96b14c56dbb43?d=identicon'
-    downloads: 4208
+    downloads: 4234
     stars: 5
   -
     package: eduard9969/blade-polaris-icons
