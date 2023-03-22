@@ -1,4 +1,4 @@
-updated_at: '2023-03-21 20:10:13'
+updated_at: '2023-03-22 00:48:36'
 packages:
   -
     package: codeat3/blade-academicons
@@ -35,7 +35,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.1
-    downloads: 14485
+    downloads: 14515
     stars: 6
     listed_on_blade_icon_readme: 1
     original_package:
@@ -67,6 +67,7 @@ packages:
       - 1.18.1
       - 1.19.1
       - 1.20.1
+      - 1.21.1
   -
     package: codeat3/blade-ant-design-icons
     name: 'Blade Ant Design Icons'
@@ -726,7 +727,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.10.0
-    downloads: 296651
+    downloads: 297613
     stars: 106
     listed_on_blade_icon_readme: 1
     original_package:
@@ -933,7 +934,7 @@ packages:
         name: troccoli
         avatar_url: 'https://www.gravatar.com/avatar/61ae23714ab1ebad1b3f6926c61fb4a8?d=identicon'
     latest_version: v0.2.0
-    downloads: 10497
+    downloads: 10504
     stars: 4
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1062,7 +1063,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.2.0
-    downloads: 10024
+    downloads: 10048
     stars: 3
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1424,7 +1425,7 @@ packages:
         name: andreiio
         avatar_url: 'https://www.gravatar.com/avatar/e256d71042d3f813fdaf6b2341b22de0?d=identicon'
     latest_version: 1.0.0
-    downloads: 36269
+    downloads: 36299
     stars: 8
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1443,7 +1444,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.2
-    downloads: 2528
+    downloads: 2532
     stars: 2
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1465,7 +1466,7 @@ packages:
         name: ub
         avatar_url: 'https://www.gravatar.com/avatar/64d845a05c782dcad0c9261c08c4c2fa?d=identicon'
     latest_version: 0.14.0
-    downloads: 2139
+    downloads: 2146
     stars: 13
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1767,7 +1768,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.2
-    downloads: 12998
+    downloads: 13003
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1813,6 +1814,7 @@ packages:
       - 1.28.2
       - 1.29.2
       - 1.30.2
+      - 1.31.2
   -
     package: codeat3/blade-weather-icons
     name: 'Blade Weather Icons'
@@ -1878,7 +1880,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.19.1
-    downloads: 33372
+    downloads: 33400
     stars: 3
     listed_on_blade_icon_readme: 0
     original_package:
@@ -1962,6 +1964,7 @@ packages:
       - 1.64.0
       - 1.65.0
       - 1.66.0
+      - 1.67.0
   -
     package: pnx/blade-cryptocurrency-icons
     name: 'Blade Cryptocurrency Icons'
@@ -2040,7 +2043,7 @@ packages:
     original_package:
       name: 'Game Icons'
       url: 'https://github.com/game-icons/icons'
-    downloads: 2248
+    downloads: 2254
     stars: 1
   -
     package: saade/blade-iconsax
