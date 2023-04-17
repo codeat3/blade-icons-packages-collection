@@ -1,4 +1,4 @@
-updated_at: '2023-04-16 20:09:02'
+updated_at: '2023-04-17 00:49:09'
 packages:
   -
     package: codeat3/blade-academicons
@@ -229,7 +229,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.0
-    downloads: 16042
+    downloads: 16047
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -941,7 +941,7 @@ packages:
         name: driesvints
         avatar_url: 'https://www.gravatar.com/avatar/e8321183acdf47a9ce838afd13a964b5?d=identicon'
     latest_version: 1.2.0
-    downloads: 1940421
+    downloads: 1941809
     stars: 412
     listed_on_blade_icon_readme: 1
     original_package:
@@ -981,7 +981,7 @@ packages:
         name: nerdroid23
         avatar_url: 'https://www.gravatar.com/avatar/a95e9e9e1978bb2e2389642ae79299a5?d=identicon'
     latest_version: 1.0.3
-    downloads: 9370
+    downloads: 9373
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1184,8 +1184,8 @@ packages:
         name: MallardDuck
         avatar_url: 'https://www.gravatar.com/avatar/865dacc5567be07beb2c03f81ec69cc6?d=identicon'
     latest_version: 1.3.0
-    downloads: 6610
-    stars: 9
+    downloads: 6617
+    stars: 10
     listed_on_blade_icon_readme: 1
     original_package:
       name: 'Lucide Icons'
