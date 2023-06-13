@@ -2136,3 +2136,11 @@ packages:
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     downloads: 44
     stars: 0
+  -
+    package: postare/blade-mdi
+    name: 'Blade Material Design Icons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 1
+    original_package:
+      name: 'Game Icons'
+      url: 'https://github.com/Templarian/MaterialDesign'
