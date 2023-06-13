@@ -2143,7 +2143,7 @@ packages:
     latest_version: ''
     listed_on_blade_icon_readme: 1
     original_package:
-      name: 'Game Icons'
+      name: 'Material Design Icons'
       url: 'https://github.com/Templarian/MaterialDesign'
     versions:
       - v1.0.0
