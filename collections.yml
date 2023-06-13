@@ -2087,7 +2087,7 @@ packages:
     package: eduard9969/blade-polaris-icons
     name: 'Blade Polaris Icons'
     latest_version: ''
-    listed_on_blade_icon_readme: 0
+    listed_on_blade_icon_readme: 1
     original_package:
       name: 'Polaris icon'
       url: 'https://polaris-icons.shopify.com/'
