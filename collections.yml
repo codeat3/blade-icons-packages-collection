@@ -1,4 +1,4 @@
-updated_at: '2023-07-03 20:11:13'
+updated_at: '2023-07-04 01:02:10'
 packages:
   -
     package: codeat3/blade-academicons
@@ -1388,7 +1388,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 6118
+    downloads: 6120
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
