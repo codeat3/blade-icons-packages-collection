@@ -1,4 +1,4 @@
-updated_at: '2023-08-02 20:09:19'
+updated_at: '2023-08-03 00:49:03'
 packages:
   -
     package: codeat3/blade-academicons
@@ -196,7 +196,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 2.1.0
-    downloads: 43632
+    downloads: 43641
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -543,7 +543,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 1889
+    downloads: 1891
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -712,8 +712,8 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.10.0
-    downloads: 414290
-    stars: 121
+    downloads: 414588
+    stars: 124
     listed_on_blade_icon_readme: 1
     original_package:
       name: Fontawesome
@@ -738,6 +738,7 @@ packages:
       - v2.2.0
       - v2.3.0
       - dev-main
+      - dev-create-pull-request/patch
       - 1.x-dev
   -
     package: codeat3/blade-fontisto-icons
@@ -1397,7 +1398,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 6361
+    downloads: 6382
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1654,7 +1655,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.5.1
-    downloads: 20340
+    downloads: 20355
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
