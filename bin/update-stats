@@ -21,15 +21,18 @@ class UpdateStats
     private $outputStream;
     private $numOfPackages;
 
-    public function __construct($output) {
+    public function __construct($output)
+    {
         $this->outputStream = $output;
     }
 
-    private function getFilePath() {
+    private function getFilePath()
+    {
         return getcwd() . self::YAML_FILE_PATH;
     }
 
-    public function readYaml() {
+    public function readYaml()
+    {
         $this->outputStream->writeln('Reading the yaml file.');
         $yamlData = (new Yaml())->parse(file_get_contents($this->getFilePath()));
         $this->packages = $yamlData['packages'] ?? [];
@@ -38,7 +41,8 @@ class UpdateStats
         return $this;
     }
 
-    public function fetchLatestData() {
+    public function fetchLatestData()
+    {
         $this->packages = array_map(function ($package) {
             $this->outputStream->writeln("Fetching latest meta info of " . $package['package']);
             return array_merge($package, PackagistMeta::fetch($package['package']));
@@ -47,7 +51,8 @@ class UpdateStats
         return $this;
     }
 
-    public function saveUpdates() {
+    public function saveUpdates()
+    {
         if($this->numOfPackages !== count($this->packages)) {
             throw Exception('Number of packages don\'t match');
         }
