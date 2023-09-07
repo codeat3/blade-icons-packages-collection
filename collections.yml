@@ -1,4 +1,4 @@
-updated_at: '2023-09-07 17:07:45'
+updated_at: '2023-09-07 17:16:48'
 packages:
   -
     package: codeat3/blade-academicons
@@ -361,7 +361,7 @@ packages:
         name: khatabwedaa
         avatar_url: 'https://www.gravatar.com/avatar/e2b7df7dc785083174cf4d4242c03285?d=identicon'
     latest_version: 1.0.0
-    downloads: 79380
+    downloads: 79368
     stars: 30
     listed_on_blade_icon_readme: 1
     original_package:
@@ -438,7 +438,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 1762
+    downloads: 1763
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -461,7 +461,7 @@ packages:
         name: owenvoke
         avatar_url: 'https://www.gravatar.com/avatar/3d8ef36191edfa07710cec5d45927be8?d=identicon'
     latest_version: v1.5.0
-    downloads: 16113
+    downloads: 16112
     stars: 6
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1350,7 +1350,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.2.1
-    downloads: 54009
+    downloads: 54010
     stars: 15
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1664,7 +1664,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.5.1
-    downloads: 21901
+    downloads: 21904
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1928,7 +1928,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.19.1
-    downloads: 47315
+    downloads: 47334
     stars: 4
     listed_on_blade_icon_readme: 0
     original_package:
@@ -2031,6 +2031,7 @@ packages:
       - 1.83.0
       - 1.84.0
       - 1.85.0
+      - 1.86.0
   -
     package: pnx/blade-cryptocurrency-icons
     name: 'Blade Cryptocurrency Icons'
@@ -2229,7 +2230,7 @@ packages:
       -
         name: Log1x
         avatar_url: 'https://www.gravatar.com/avatar/702916a3e35744959d7aa8671d63516c?d=identicon'
-    downloads: 339
+    downloads: 337
     stars: 1
   -
     package: mckenziearts/blade-untitledui-icons
