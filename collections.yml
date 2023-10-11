@@ -1,4 +1,4 @@
-updated_at: '2023-10-10 20:08:06'
+updated_at: '2023-10-11 00:41:28'
 packages:
   -
     package: codeat3/blade-academicons
@@ -197,7 +197,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 2.1.0
-    downloads: 54550
+    downloads: 54578
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1040,7 +1040,7 @@ packages:
         name: ItsMalikJones
         avatar_url: 'https://www.gravatar.com/avatar/212f2b42e5c7982a10ef97dd2a7f42e8?d=identicon'
     latest_version: 1.2.0
-    downloads: 15440
+    downloads: 15441
     stars: 18
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1180,7 +1180,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 31318
+    downloads: 31342
     stars: 3
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1403,7 +1403,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.1
-    downloads: 7348
+    downloads: 7366
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1474,7 +1474,7 @@ packages:
         name: ub
         avatar_url: 'https://www.gravatar.com/avatar/64d845a05c782dcad0c9261c08c4c2fa?d=identicon'
     latest_version: 0.14.0
-    downloads: 6082
+    downloads: 6106
     stars: 14
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1669,7 +1669,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.5.1
-    downloads: 23000
+    downloads: 23021
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1799,7 +1799,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.8.2
-    downloads: 19004
+    downloads: 19025
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
