@@ -1,4 +1,4 @@
-updated_at: '2023-10-24 20:09:43'
+updated_at: '2023-10-25 00:41:28'
 packages:
   -
     package: codeat3/blade-academicons
@@ -1306,7 +1306,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.0.0
-    downloads: 15689
+    downloads: 15806
     stars: 1
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1672,7 +1672,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.5.1
-    downloads: 23665
+    downloads: 23787
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1701,7 +1701,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.3.2
-    downloads: 5334
+    downloads: 5335
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1883,7 +1883,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
-    downloads: 73112
+    downloads: 73230
     stars: 50
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1912,7 +1912,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.19.1
-    downloads: 53914
+    downloads: 54066
     stars: 5
     listed_on_blade_icon_readme: 0
     original_package:
@@ -2118,7 +2118,7 @@ packages:
       -
         name: saade
         avatar_url: 'https://www.gravatar.com/avatar/28793909c9b81e2cbad96b14c56dbb43?d=identicon'
-    downloads: 12594
+    downloads: 12725
     stars: 9
   -
     package: eduard9969/blade-polaris-icons
@@ -2157,7 +2157,7 @@ packages:
       -
         name: Eduard9969
         avatar_url: 'https://www.gravatar.com/avatar/a542ffaba0ce5fadb0588d3923a5c81b?d=identicon'
-    downloads: 7965
+    downloads: 7966
     stars: 3
   -
     package: codeat3/blade-gala-icons
