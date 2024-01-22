@@ -2296,3 +2296,11 @@ packages:
         avatar_url: 'https://www.gravatar.com/avatar/e6edbb9e2d1d3f7e3c3d94fb6c3d6f39?d=identicon'
     downloads: 22
     stars: 0
+  -
+    package: themesberg/flowbite-blade-icons
+    name: 'Blade Flowbite Icons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 1
+    original_package:
+      name: 'Flowbite Icons'
+      url: 'https://flowbite.com/icons/'
