@@ -1,4 +1,4 @@
-updated_at: '2024-02-13 20:10:54'
+updated_at: '2024-02-14 00:42:35'
 packages:
   -
     package: codeat3/blade-academicons
@@ -960,7 +960,7 @@ packages:
         name: driesvints
         avatar_url: 'https://www.gravatar.com/avatar/8f2fedbd4d951d1776973be3867e1c6d?d=identicon'
     latest_version: 1.2.0
-    downloads: 4914521
+    downloads: 4924477
     stars: 501
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1945,7 +1945,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.19.1
-    downloads: 72922
+    downloads: 73120
     stars: 5
     listed_on_blade_icon_readme: 0
     original_package:
@@ -2066,6 +2066,7 @@ packages:
       - 3.1.0
       - 3.2.0
       - 3.3.0
+      - 3.4.0
   -
     package: pnx/blade-cryptocurrency-icons
     name: 'Blade Cryptocurrency Icons'
