@@ -1,4 +1,4 @@
-updated_at: '2024-03-12 20:10:00'
+updated_at: '2024-03-13 00:42:34'
 packages:
   -
     package: codeat3/blade-academicons
@@ -2416,7 +2416,7 @@ packages:
       -
         name: Mckenziearts
         avatar_url: 'https://www.gravatar.com/avatar/4adf85511fbc872762e54af6a4b045b1?d=identicon'
-    downloads: 2012
+    downloads: 2015
     stars: 15
   -
     package: datlechin/blade-lineicons
