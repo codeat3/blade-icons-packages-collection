@@ -1,4 +1,4 @@
-updated_at: '2024-05-09 20:10:00'
+updated_at: '2024-05-10 00:44:23'
 packages:
   -
     package: codeat3/blade-academicons
@@ -109,7 +109,7 @@ packages:
         name: davidhsianturi
         avatar_url: 'https://www.gravatar.com/avatar/67541eb5643da12433285ca0b69ced99?d=identicon'
     latest_version: 0.1.0
-    downloads: 237094
+    downloads: 237410
     stars: 59
     listed_on_blade_icon_readme: 1
     original_package:
@@ -1793,7 +1793,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.5.1
-    downloads: 32098
+    downloads: 32096
     stars: 0
     listed_on_blade_icon_readme: 1
     original_package:
@@ -2011,7 +2011,7 @@ packages:
         name: swapnilsarwe
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     latest_version: 1.1.0
-    downloads: 88556
+    downloads: 88577
     stars: 50
     listed_on_blade_icon_readme: 1
     original_package:
@@ -2253,7 +2253,7 @@ packages:
     original_package:
       name: 'Game Icons'
       url: 'https://github.com/game-icons/icons'
-    downloads: 6526
+    downloads: 6530
     stars: 1
   -
     package: saade/blade-iconsax
@@ -2273,7 +2273,7 @@ packages:
       -
         name: saade
         avatar_url: 'https://www.gravatar.com/avatar/28793909c9b81e2cbad96b14c56dbb43?d=identicon'
-    downloads: 27728
+    downloads: 27742
     stars: 12
   -
     package: eduard9969/blade-polaris-icons
@@ -2324,7 +2324,7 @@ packages:
       -
         name: Eduard9969
         avatar_url: 'https://www.gravatar.com/avatar/a542ffaba0ce5fadb0588d3923a5c81b?d=identicon'
-    downloads: 16409
+    downloads: 16417
     stars: 4
   -
     package: codeat3/blade-gala-icons
@@ -2362,7 +2362,7 @@ packages:
       -
         name: inerba
         avatar_url: 'https://www.gravatar.com/avatar/9349a5a4d543f9968459fe6b956bf4d0?d=identicon'
-    downloads: 13869
+    downloads: 13892
     stars: 4
   -
     package: log1x/blade-filetype-icons
@@ -2406,7 +2406,7 @@ packages:
       -
         name: Mckenziearts
         avatar_url: 'https://www.gravatar.com/avatar/4adf85511fbc872762e54af6a4b045b1?d=identicon'
-    downloads: 3612
+    downloads: 3627
     stars: 15
   -
     package: datlechin/blade-lineicons
@@ -2445,5 +2445,5 @@ packages:
       -
         name: DomThomas-Dev
         avatar_url: 'https://www.gravatar.com/avatar/5fad13df8faa22b076f91e135f1347fe?d=identicon'
-    downloads: 3405
+    downloads: 3408
     stars: 4
