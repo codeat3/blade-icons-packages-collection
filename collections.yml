@@ -1,4 +1,4 @@
-updated_at: '2024-05-13 20:10:01'
+updated_at: '2024-05-14 00:45:03'
 packages:
   -
     package: codeat3/blade-academicons
@@ -2326,7 +2326,7 @@ packages:
       -
         name: Eduard9969
         avatar_url: 'https://www.gravatar.com/avatar/a542ffaba0ce5fadb0588d3923a5c81b?d=identicon'
-    downloads: 16571
+    downloads: 16591
     stars: 4
   -
     package: codeat3/blade-gala-icons
@@ -2387,7 +2387,7 @@ packages:
       -
         name: Log1x
         avatar_url: 'https://www.gravatar.com/avatar/702916a3e35744959d7aa8671d63516c?d=identicon'
-    downloads: 1861
+    downloads: 1862
     stars: 3
   -
     package: mckenziearts/blade-untitledui-icons
@@ -2447,5 +2447,5 @@ packages:
       -
         name: DomThomas-Dev
         avatar_url: 'https://www.gravatar.com/avatar/5fad13df8faa22b076f91e135f1347fe?d=identicon'
-    downloads: 3437
+    downloads: 3440
     stars: 4
