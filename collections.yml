@@ -1752,7 +1752,7 @@ packages:
       - 1.6.2
       - 1.7.0
   -
-    package: secondnetwork/blade-tabler-icons
+    package: ryangjchandler/blade-tabler-icons
     name: 'Blade Tabler Icons'
     maintainers:
       -
@@ -2502,3 +2502,11 @@ packages:
         avatar_url: 'https://www.gravatar.com/avatar/5fad13df8faa22b076f91e135f1347fe?d=identicon'
     downloads: 3539
     stars: 5
+  -
+    package: secondnetwork/blade-tabler-icons
+    name: 'Blade Tabler Icons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 0
+    original_package:
+      name: 'Tabler Icons'
+      url: 'https://github.com/tabler/tabler-icons'
