@@ -1,4 +1,4 @@
-updated_at: '2024-05-30 16:58:19'
+updated_at: '2024-05-30 17:33:53'
 packages:
   -
     package: codeat3/blade-academicons
@@ -2574,7 +2574,7 @@ packages:
       name: 'Huge Icons'
       url: 'https://hugeicons.com/'
       twitter: huge_icons
-      website: https://hugeicons.com/
+      website: 'https://hugeicons.com/'
     versions:
       - v0.0.1
       - v0.0.2
