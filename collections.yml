@@ -2573,6 +2573,8 @@ packages:
     original_package:
       name: 'Huge Icons'
       url: 'https://hugeicons.com/'
+      twitter: huge_icons
+      website: https://hugeicons.com/
     versions:
       - v0.0.1
       - v0.0.2
