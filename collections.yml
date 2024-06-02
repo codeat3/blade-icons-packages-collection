@@ -2590,3 +2590,41 @@ packages:
         avatar_url: 'https://www.gravatar.com/avatar/b40f1d386eb4c21757da46668d708fe5?d=identicon'
     downloads: 91
     stars: 1
+  -
+    package: codeat3/blade-gravity-ui-icons
+    name: 'Blade Gravity UI Icons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 0
+    original_package:
+      name: 'Gravity UI Icons'
+      url: 'https://github.com/gravity-ui/icons/'
+      website: https://gravity-ui.com/icons
+      telegram: https://t.me/gravity_ui
+  -
+    package: codeat3/blade-memory-icons
+    name: 'Blade Memory Icons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 0
+    original_package:
+      name: 'Memory Icons'
+      url: 'https://github.com/Pictogrammers/Memory'
+      website: https://pictogrammers.com/library/memory/
+  -
+    package: codeat3/blade-element-plus-icons
+    name: 'Blade Element Plus Icons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 0
+    original_package:
+      name: 'Element Plus Icons'
+      url: 'https://github.com/element-plus/element-plus-icons'
+      website: https://element-plus.org/en-US/component/icon.html
+  -
+    package: codeat3/blade-humbleicons
+    name: 'Blade Humbleicons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 0
+    original_package:
+      name: 'Humbleicons'
+      url: 'https://github.com/zraly/humbleicons'
+      website: https://humbleicons.com/
+      twitter: Zraly
