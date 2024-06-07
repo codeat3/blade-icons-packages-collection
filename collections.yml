@@ -2668,3 +2668,11 @@ packages:
         avatar_url: 'https://www.gravatar.com/avatar/0a4d4844e866bb689ea4602071e9dfe7?d=identicon'
     downloads: 5
     stars: 0
+  -
+    package: codeat3/blade-solar-icons
+    name: 'Blade Solar Icons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 0
+    original_package:
+      name: 'Solar Icons'
+      url: 'https://github.com/480-Design/Solar-Icon-Set'
