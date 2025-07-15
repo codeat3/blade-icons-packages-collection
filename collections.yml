@@ -3107,3 +3107,35 @@ packages:
         avatar_url: 'https://www.gravatar.com/avatar/fa36d9f0c57bf4ea1fcbf805fe339457?d=identicon'
     downloads: 138710
     stars: 28
+  -
+    package: isapp/blade-payment-logos
+    name: 'Blade Payment Logos'
+    latest_version: ''
+    listed_on_blade_icon_readme: 1
+    original_package:
+      name: 'Payment Logos'
+      url: 'https://github.com/datatrans/payment-logos'
+  -
+    package: maiden-voyage-software/blade-emojis
+    name: 'Blade Emojis'
+    latest_version: ''
+    listed_on_blade_icon_readme: 1
+    original_package:
+      name: 'Noto Emoji'
+      url: 'https://github.com/googlefonts/noto-emoji'
+  -
+    package: johan-boshoff/blade-car-makes-icons
+    name: 'Blade Car Makes Icons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 1
+    original_package:
+      name: 'Car Makes Icons'
+      url: 'https://github.com/dangnelson/car-makes-icons'
+  -
+    package: mrdindar/blade-iranian-brands-icons
+    name: 'Blade Iranian Brands Icons Template'
+    latest_version: ''
+    listed_on_blade_icon_readme: 1
+    original_package:
+      name: 'Iranian Brands Icons'
+      url: 'https://aasaam.github.io/brand-icons/'
