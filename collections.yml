@@ -1884,7 +1884,7 @@ packages:
     latest_version: v1.1.0
     downloads: 424788
     stars: 77
-    listed_on_blade_icon_readme: 1
+    listed_on_blade_icon_readme: 0
     original_package:
       name: 'Tabler Icons'
       url: 'https://github.com/tabler/tabler-icons'
@@ -2984,3 +2984,11 @@ packages:
         avatar_url: 'https://www.gravatar.com/avatar/a0c256072065cb7577c9a1b65bd8537d?d=identicon'
     downloads: 41
     stars: 0
+  -
+    package: secondnetwork/blade-tabler-icons
+    name: 'Blade Tabler Icons'
+    latest_version: ''
+    listed_on_blade_icon_readme: 1
+    original_package:
+      name: 'Tabler Icons'
+      url: 'https://github.com/tabler/tabler-icons'
