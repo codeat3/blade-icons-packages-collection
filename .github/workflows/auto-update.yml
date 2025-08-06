@@ -33,7 +33,7 @@ jobs:
       - name: Install dependencies
         run: composer update --prefer-dist --no-interaction --no-progress
 
-      - name: Run PHP CS Fixer
+      - name: Updating latest stats
         run: bin/update-stats
 
       - name: Commit changes
